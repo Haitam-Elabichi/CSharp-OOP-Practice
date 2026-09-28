@@ -12,3 +12,4 @@ C:\Users\Haitam\Desktop\HRsystem poo by c#\HR-system\obj\Debug\net10.0\refint\HR
 C:\Users\Haitam\Desktop\HRsystem poo by c#\HR-system\obj\Debug\net10.0\HR-system.pdb
 C:\Users\Haitam\Desktop\HRsystem poo by c#\HR-system\obj\Debug\net10.0\HR-system.genruntimeconfig.cache
 C:\Users\Haitam\Desktop\HRsystem poo by c#\HR-system\obj\Debug\net10.0\ref\HR-system.dll
+C:\Users\Haitam\Desktop\HRsystem poo by c#\HR-system\obj\Debug\net10.0\HR-system.sourcelink.json
